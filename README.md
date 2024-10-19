@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CalebGould747
 - 👀 I’m interested in coding and computers
-- 🌱 I’m currently learning Python
+- 🐍 I’m currently learning Python
 
 <!---
 CalebGould747/CalebGould747 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
